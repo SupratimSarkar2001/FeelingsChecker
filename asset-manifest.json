@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FeelingsChecker/static/css/main.05998d22.chunk.css",
+    "main.js": "/FeelingsChecker/static/js/main.fde5c6f9.chunk.js",
+    "main.js.map": "/FeelingsChecker/static/js/main.fde5c6f9.chunk.js.map",
+    "runtime-main.js": "/FeelingsChecker/static/js/runtime-main.9f79f078.js",
+    "runtime-main.js.map": "/FeelingsChecker/static/js/runtime-main.9f79f078.js.map",
+    "static/js/2.570261f7.chunk.js": "/FeelingsChecker/static/js/2.570261f7.chunk.js",
+    "static/js/2.570261f7.chunk.js.map": "/FeelingsChecker/static/js/2.570261f7.chunk.js.map",
+    "index.html": "/FeelingsChecker/index.html",
+    "static/css/main.05998d22.chunk.css.map": "/FeelingsChecker/static/css/main.05998d22.chunk.css.map",
+    "static/js/2.570261f7.chunk.js.LICENSE.txt": "/FeelingsChecker/static/js/2.570261f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f79f078.js",
+    "static/js/2.570261f7.chunk.js",
+    "static/css/main.05998d22.chunk.css",
+    "static/js/main.fde5c6f9.chunk.js"
+  ]
+}
